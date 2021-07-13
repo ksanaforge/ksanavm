@@ -1,0 +1,19 @@
+int lesson1(KsanaVm *vm);
+int lesson2(KsanaVm *vm);
+int lesson3(KsanaVm *vm);
+int lesson4(KsanaVm *vm);
+int lesson5(KsanaVm *vm);
+int lesson6(KsanaVm *vm);
+int lesson6_loop(KsanaVm *vm); // for lesson 7 to reuse
+int lesson7(KsanaVm *vm);
+int lesson8(KsanaVm *vm);
+int lesson9(KsanaVm *vm);
+int lesson10(KsanaVm *vm);
+int lesson11(KsanaVm *vm);
+int lesson12(KsanaVm *vm);
+int lesson13(KsanaVm *vm);
+int lesson14(KsanaVm *vm);
+int lesson15(KsanaVm *vm);
+int lesson16(KsanaVm *vm);
+int lesson17(KsanaVm *vm);
+int lesson20(KsanaVm *vm);

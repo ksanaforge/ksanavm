@@ -1,0 +1,63 @@
+# depslib dependency file v1.0
+1306289894 source:d:\!try\tutor\ksanavm\src\main.c
+	"vm.h"
+	"lesson.h"
+
+1272713438 source:d:\!try\tutor\ksanavm\src\progflow.c
+	"progflow.h"
+
+1198460806 d:\!try\tutor\ksanavm\src\progflow.h
+	"vm.h"
+
+1273140235 d:\!try\tutor\ksanavm\src\vm.h
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1272713474 source:d:\!try\tutor\ksanavm\src\string.c
+	"vm.h"
+
+1306290221 source:d:\!try\tutor\ksanavm\src\var.c
+	"compiler.h"
+
+1200896054 d:\!try\tutor\ksanavm\src\compiler.h
+	"vm.h"
+
+1306253134 source:d:\!try\tutor\ksanavm\src\vm.c
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	"vm.h"
+	"compiler.h"
+
+1306289907 source:d:\!try\tutor\ksanavm\src\lesson20.c
+	"compiler.h"
+
+1272713535 source:d:\!try\tutor\ksanavm\src\compiler.c
+	"compiler.h"
+
+1272555561 source:d:\!try\tutor\ksanavm\src\io.c
+	"vm.h"
+	"io.h"
+
+1200937590 source:d:\!try\tutor\ksanavm\src\lesson13.c
+	"compiler.h"
+
+1200930014 source:d:\!try\tutor\ksanavm\src\lesson10.c
+	"compiler.h"
+	"progflow.h"
+	"lesson.h"
+
+1306247262 d:\!try\tutor\ksanavm\src\lesson.h
+
+1306253419 source:d:\!try\tutor\ksanavm\src\winapi.c
+	"vm.h"
+	"windows.h"
+
+1271306299 d:\!try\tutor\ksanavm\src\io.h
+	"vm.h"
+
+1272984870 source:d:\!try\tutor\ksanavm\src\dbgutil.c
+	"vm.h"
+	"io.h"
+
